@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "bUsiPFK6V1bY5T8m9r/1vrkE6IYCu9i+anw3gOAEzT4=",
+  "Source": "StudentRegistrationFormAPI",
+  "BasePath": "_content/StudentRegistrationFormAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StudentRegistrationFormAPI\\wwwroot",
+      "Source": "StudentRegistrationFormAPI",
+      "ContentRoot": "C:\\Users\\KALI KRISHNA\\Documents\\VisualStudio\\StudentRegistrationFormAPI\\StudentRegistrationFormAPI\\wwwroot\\",
+      "BasePath": "_content/StudentRegistrationFormAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
